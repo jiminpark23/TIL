@@ -1,5 +1,5 @@
 # TIL
-👀 JIMIN'S TIL (Today I Learned)
+<strong>👀 JIMIN'S TIL (Today I Learned)</strong>
 <br><br>
 1. [Git](#git) <br>
 2. [운영체제](#운영체제) <br>
